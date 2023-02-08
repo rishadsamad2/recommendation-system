@@ -1,0 +1,51 @@
+Item_ID,Item_Quantity,Brand,Duration,Category,cost,Branch_ID,branch_est_year,Branch_size,Branch_state,Branch_City,Expenses
+TAB456,5,Bic,6,Eraser,7,OFC12,2012,Large,New York,Buffalo,6258.52
+PAP562,50,Hp,3,Paper bundle,50,OFC22,2002,Small,New York,New Rochelle,2832.98
+PEN102,50,Ticonderoga,7,Pencil,20,OFC22,2002,Small,New York,New Rochelle,2624.58
+PEN104,100,Bic,7,Pen,25,OFC25,2004,Medium,New York,White Plains,3257.76
+STA78,12,Great Wall,4,Stapler pins,20,OFC25,2004,Medium,New York,White Plains,1796.33
+TAB456,5,Bic,5,Eraser,6,OFC54,2009,Small,New Jersey,Edison,1713.77
+PAP562,50,Hp,5,Paper bundle,150,OFC89,2001,Large,Connecticut,Standford,2982.78
+COF362,8,Island,4,Coffee Box,150,OFC54,2009,Small,New Jersey,Edison,1303.64
+BOU678,10,Bounty,4,Paper Towel,30,OFC12,2012,Medium,New York,Buffalo,2897.56
+STA78,12,Great Wall,6,Stapler pins,30,OFC22,2015,Large,New Jersey,Jersey City,918.8
+SHA968,20,Sharpie,7,Marker Pen,10,OFC54,2009,Small,New Jersey,Edison,866.87
+COF362,8,Island,5,Coffee Box,200,OFC12,2012,Medium,New York,Buffalo,2884.25
+DAR124,5,Highland,7,Dairy,50,OFC54,2009,Small,New Jersey,Edison,221.05
+CUP125,100,Hefty,15,Cups,45,OFC22,2002,Small,New York,New Rochelle,1618.56
+SUG56,6,Domino,8,Suger bag,40,OFC54,2009,Small,New Jersey,Edison,296.95
+STA78,12,Great Wall,8,Stapler pins,35,OFC22,2002,Small,New York,New Rochelle,241.02
+CHA45,50,Staples,10,Files,50,OFC25,2004,Medium,New York,White Plains,202.4
+BUB12,6,Duracell,15,Battery,6,OFC54,2009,Small,New Jersey,Edison,426.11
+WHI001,20,Bic,25,wite out,45,OFC89,2001,Large,Connecticut,Standford,2647.22
+CHA45,50,Staples,10,Files,50,OFC22,2002,Small,New York,New Rochelle,2503.41
+BUB12,6,Duracell,20,Battery,9,OFC25,2004,Medium,New York,White Plains,2812.34
+BUB12,6,Duracell,15,Battery,6,OFC89,2001,Large,Connecticut,Standford,372.85
+DAR124,5,Highland,8,Dairy,70,OFC12,2012,Medium,New York,Buffalo,2612.6
+SUG56,6,Domino,8,Suger bag,40,OFC54,2009,Large,New Jersey,Edison,4845.03
+WHI001,20,Bic,10,wite out,10,OFC25,2004,Medium,New York,White Plains,159.79
+WHI001,20,Bic,10,wite out,10,OFC12,2012,Medium,New York,Buffalo,872.2
+BOU678,10,Bounty,4,Paper Towel,30,OFC89,2001,Large,Connecticut,Standford,3235.79
+STA78,12,Great Wall,8,Stapler pins,38,OFC22,2015,Large,New Jersey,Jersey City,841.57
+BOU678,10,Bounty,5,Paper Towel,40,OFC54,2009,Small,New Jersey,Edison,1379.54
+BOU678,10,Bounty,6,Paper Towel,45,OFC89,2001,Large,Connecticut,Standford,3559.37
+CUP125,100,Hefty,20,Cups,65,OFC12,2012,Medium,New York,Buffalo,4244.48
+SHA968,20,Sharpie,6,Marker Pen,8,OFC22,2015,Large,New Jersey,Jersey City,3415.55
+SPO257,200,Hefty,15,Spoons,42,OFC25,2004,Medium,New York,White Plains,3115.94
+DAR124,5,Highland,7,Dairy,50,OFC25,2004,Medium,New York,White Plains,3769.76
+CUP125,100,Hefty,10,Cups,35,OFC22,2002,Small,New York,New Rochelle,1186.46
+SPO257,200,Hefty,12,Spoons,30,OFC25,2004,Medium,New York,White Plains,1540.66
+SPO257,200,Hefty,15,Spoons,35,OFC89,2001,Large,Connecticut,Standford,2552.68
+PEN102,50,Ticonderoga,9,Pencil,25,OFC22,2015,Large,New Jersey,Jersey City,1619.23
+PEN104,100,Bic,9,Pen,35,OFC89,2001,Large,Connecticut,Standford,829.59
+TAB456,5,Bic,7,Eraser,9,OFC22,2015,Large,New Jersey,Jersey City,1166.48
+SUG56,6,Domino,9,Suger bag,50,OFC12,2012,Medium,New York,Buffalo,1665.83
+WHI001,20,Bic,15,wite out,15,OFC54,2009,Small,New Jersey,Edison,2876.26
+BUB12,6,Duracell,13,Battery,8,OFC12,2012,Medium,New York,Buffalo,2702.48
+STA78,12,Great Wall,6,Stapler pins,45,OFC89,2001,Large,Connecticut,Standford,189.09
+CHA45,50,Staples,12,Files,40,OFC54,2009,Small,New Jersey,Edison,2956.15
+TAB456,5,Bic,6,Eraser,9,OFC22,2002,Small,New York,New Rochelle,8132.08
+COF362,8,Island,10,Coffee Box,300,OFC89,2001,Large,Connecticut,Standford,1541.99
+BOU678,10,Bounty,5,Paper Towel,40,OFC22,2015,Large,New Jersey,Jersey City,3635.27
+PAP562,50,Hp,8,Paper bundle,200,OFC25,2004,Large,New York,White Plains,14346.34
+CHA45,50,Staples,12,Files,70,OFC25,2004,Medium,New York,White Plains,466.06
